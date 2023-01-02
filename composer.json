@@ -1,0 +1,21 @@
+{
+  "name": "onnerby/doelogger",
+  "description": "JSON log writer/reader",
+  "keywords": [
+    "PHP",
+    "logging"
+  ],
+  "homepage": "https://github.com/onnerby/doelogger",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel Önnerby"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+    	"Doe\\": "src/"
+    }
+  }
+}
