@@ -3,7 +3,9 @@
   "description": "JSON log writer/reader",
   "keywords": [
     "PHP",
-    "logging"
+    "logging",
+    "log",
+    "logger"
   ],
   "homepage": "https://github.com/onnerby/doelogger",
   "type": "library",
